@@ -1,0 +1,8 @@
+board/
+db/
+incremental_db/
+output_files/
+simulation/
+timing/
+*.log
+*.bak
